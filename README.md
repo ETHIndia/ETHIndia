@@ -2,21 +2,21 @@
 https://2018.ethindia.co/
 
 ## Installation
-- `npm install`
+- `npm Install`
 
 #### Gulp Tasks
 
-- `gulp` the default task that builds everything
-- `gulp dev` browserSync opens the project in your default browser and live reloads when changes are made
-- `gulp sass` compiles SCSS files into CSS
-- `gulp minify-css` minifies the compiled CSS file
-- `gulp minify-js` minifies the themes JS file
-- `gulp copy` copies dependencies from node_modules to the vendor directory
+- <i>`Gulp`</i> the default task that builds everything
+- <i>`Gulp dev`</i> browserSync opens the project in your default browser and live reloads when changes are made
+- <i>`Gulp sass`</i> compiles SCSS files into CSS
+- <i>`Gulp minify-css`</i> minifies the compiled CSS file
+- <i>`Gulp minify-js`</i> minifies the themes JS file
+- <i>`Gulp copy`</i> copies dependencies from node_modules to the vendor directory
 
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
+This work is Licensed under a [Creative Commons Attribution-ShareAlike 4.0
 International License][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
